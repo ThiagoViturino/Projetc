@@ -1,5 +1,8 @@
 # My First Steps to the Data Science
 
+![Alt Text](https://miro.medium.com/max/4320/1*S6XhsxitM7P-5Iqfh5EwHg.jpeg)
+
+
 In this Post, I will share how I started my journey as Data Scientist, despite not working as a scientist yet, but I already use all the tools and techniques in my day, and this has helped a lot.
 
 
