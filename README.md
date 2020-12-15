@@ -1,6 +1,5 @@
 # My First Steps to the Data Science
 
-
 In this Post, I will share how I started my journey as Data Scientist, despite not working as a scientist yet, but I already use all the tools and techniques in my day, and this has helped a lot.
 
 
@@ -51,6 +50,3 @@ If it is difficult it is good, because the more difficult, the more value your w
 Deceive anyone who thinks that the first Data Science project involves a series of professionals and a high investment. You can start in Data Science using your experiences to solve small problems in your company, using few resources and a lot of dedication
 
 Good luck
-
-
-
